@@ -1,0 +1,2 @@
+This file os related to my task Lab-07
+Software configuration (SCM_503)
